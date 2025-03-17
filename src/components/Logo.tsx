@@ -2,7 +2,7 @@
 
 function Logo() {
   return (
-    <img src="../../public/logo.svg" alt="Logotipo UpTask" />
+    <img src="/logo.svg" alt="Logotipo UpTask" />
   )
 }
 
